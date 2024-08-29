@@ -1,0 +1,14 @@
+{
+  "request": {
+      "method": "GET",
+      "urlPath": "/api/data"
+  },
+  "response": {
+      "status": 200,
+      "body": "{\"message\": \"Mocked response\"}",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+  }
+}
+
